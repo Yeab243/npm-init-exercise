@@ -1,0 +1,23 @@
+{
+  "name": "npm-init-exercise",
+  "version": "1.0.0",
+  "description": "npm init exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yeab243/npm-init-exercise.git"
+  },
+  "keywords": [
+    "npm",
+    "init"
+  ],
+  "author": "Yeabsira Girma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yeab243/npm-init-exercise/issues"
+  },
+  "homepage": "https://github.com/Yeab243/npm-init-exercise#readme"
+}
